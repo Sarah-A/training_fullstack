@@ -1,0 +1,11 @@
+# Compiled Files
+*.pyc
+
+# Database Files
+*.db
+
+
+
+# Vagrant Files
+/.vagrant
+/adoption_center/test_results_example.txt

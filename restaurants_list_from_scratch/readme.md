@@ -31,7 +31,7 @@ How to Run:
    Now you are logged into the virtual machine.  
 3. run:  
 	``` 
-	$ cd /vagrant/restaurant_menu_from_scratch 
+	$ cd /vagrant/restaurants_list_from_scratch 
 	```  
 4. To create and fill the database:  
     ```

@@ -9,3 +9,4 @@
 # Vagrant Files
 /.vagrant
 /adoption_center/test_results_example.txt
+.vscode
